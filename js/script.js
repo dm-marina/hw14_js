@@ -10,5 +10,5 @@ function numToPow (num , pow=1){
      }
             return num**pow;
 }
-numToPow();
-alert(numToPow());
+let result = numToPow();
+alert(result);
